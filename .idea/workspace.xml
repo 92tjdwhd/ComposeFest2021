@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7a19808-8a3f-401e-a236-162613deb1c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutCodelab2/app/src/main/java/com/tjdwhd92/layoutcodelab2/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutCodelab2/app/src/main/java/com/tjdwhd92/layoutcodelab2/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +14,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutCodelab2" />
   </component>
   <component name="ProjectId" id="20Je9wQAYPtu1JKe3RTbf1iW62y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +36,14 @@
       <option name="presentableId" value="Default" />
       <updated>1635765483301</updated>
     </task>
+    <task id="LOCAL-00001" summary="feature - createComposeLayout">
+      <created>1638363957444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638363957444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -48,5 +57,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feature - createComposeLayout" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature - createComposeLayout" />
   </component>
 </project>
