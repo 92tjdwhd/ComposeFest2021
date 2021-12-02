@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7a19808-8a3f-401e-a236-162613deb1c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutCodelab2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutCodelab2/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutCodelab2/app/src/main/java/com/tjdwhd92/layoutcodelab2/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/week 2-1-Layouts in JetpackCompose/LayoutCodelab2/app/src/main/java/com/tjdwhd92/layoutcodelab2/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638363957444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feature - Complex custom layout">
+      <created>1638364245214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638364245214</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -60,6 +68,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature - createComposeLayout" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature - createComposeLayout" />
+    <MESSAGE value="feature - Complex custom layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature - Complex custom layout" />
   </component>
 </project>
