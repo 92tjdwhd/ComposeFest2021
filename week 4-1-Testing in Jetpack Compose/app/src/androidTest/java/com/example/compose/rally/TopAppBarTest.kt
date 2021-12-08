@@ -31,6 +31,7 @@ class TopAppBarTest {
         Thread.sleep(5000)
     }
 
+    @Test
     fun rallyTopAppBarTest_currentLabelExists() {
         val allScreens = RallyScreen.values().toList()
         composeTestRule.setContent {
@@ -42,7 +43,13 @@ class TopAppBarTest {
         }
 
         composeTestRule
-            .onNodeWithContentDescription(RallyScreen.Accounts.name)
+            .onNode(
+                hasText(RallyScreen.Accounts.name.toUpperCase()) and
+                        hasParent(
+                            hasContentDescription(RallyScreen.Accounts.name)
+                        ),
+                useUnmergedTree = true
+            )
             .assertExists()
     }
 }
